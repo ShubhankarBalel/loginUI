@@ -19,6 +19,7 @@ body {
     justify-content: center;
     align-items: center;
     flex-direction: column;
+    
 }
 
 #headerdescribe {
@@ -45,6 +46,10 @@ body {
   font-size: 18px;
   font-family: 'Times New Roman', Times, serif;
   }
+
+.password{
+    -webkit-text-security: disk;
+}
 
   
    
